@@ -8,3 +8,4 @@
 <h2>Projeto responsivo</h2>
 <br>
 <h3>Projeto criado juntos as aulas<a href="https://rodolfomori.com.br/devclub">DevCluv</a></h3>
+<img src="https://github.com/gil-sousa2180/easy-shopping-mobile/blob/main/deskop.png?raw=true/>
