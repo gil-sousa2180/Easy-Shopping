@@ -145,11 +145,6 @@ header {
         display: block;
     }
 
-    @media screen and (max-width: 350px){
-        .contanier-left {
-            height: 70%;
-        }
-
 
 }
     
